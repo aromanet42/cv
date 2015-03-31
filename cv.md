@@ -13,11 +13,11 @@ Depuis toujours intéressée par la programmation, j'ai pu profiter de mes diff�
 
 **Développeur Java/JEE à Excilys** (SSII située à Cachan) `septembre 2011 - Aujourd'hui`
 
-> - depuis mars 2013 : *FIA-NET*, société d'expertise dans le e-commerce.
+> - depuis mars 2014 : *FIA-NET*, société d'expertise dans le e-commerce.
 >    - Maintenances sur leur service de paiment en ligne
 >    - Début d'un nouveau projet de paiement fractionné.
 >    Mise en place d'un nouveau projet, écriture de documentation technique détaillée
-> - août 2012 - février 2013 : *Mutex*, regroupement de mutuelles mettant à leur disposition des outils pour mieux gérer leurs adhérents.
+> - août 2012 - février 2014 : *Mutex*, regroupement de mutuelles mettant à leur disposition des outils pour mieux gérer leurs adhérents.
 >    - Écriture de scripts en Groovy permettant de gérer un annuaire LDAP (extraction/insertion de données vers/à partir de CSV)
 >    - Ajout d'une gestion de droits sur une application Java
 >    - Mise en place d'un web-service permettant de se connecter sans login (avec un token) sur une application (bascule d'une application à une autre sans avoir à se reconnecter)
