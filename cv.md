@@ -11,7 +11,12 @@ Depuis toujours intéressée par la programmation, j'ai pu profiter de mes diff�
 
 ### Expérience
 
-**Développeur Java/JEE à Excilys** (SSII située à Cachan) `septembre 2011 - Aujourd'hui`
+**Développeur Java/JEE à Mirakl** (Paris) `mai 2015 - Aujourd'hui`
+
+> Développement de Mirakl-MarketPlace, principalement sur des problématiques liées à l'internationnalisation (multi-langues, multi-devises, multi-taxes)
+> Projet géré en Agile (Scrum)
+
+**Développeur Java/JEE à Excilys** (SSII située à Cachan) `septembre 2011 - mai 2015`
 
 > - depuis mars 2014 : *FIA-NET*, société d'expertise dans le e-commerce.
 >    - Maintenances sur leur service de paiment en ligne
@@ -44,8 +49,13 @@ Génération de QCMs en PDF.
 > - Java 6, **Java 8**, Groovy. Notions en C#, C, Ruby, PHP
 > - Langages Web: JavaScript, HTML 4, CSS, LESS, SASS
 > - Frameworks **Spring** (ioc, mvc, webflow, aop, security), Grails, **Hibernate**, QueryDSL 
-> - **Tests**: Méthode TDD, JUnit, Spock, EasyMock, Cucumber
+> - **Tests**: Méthode TDD, TestNG, JUnit, Spock, EasyMock, Cucumber
 > - Connaissance de **RabbitMQ**
+
+####Méthodologies
+
+> **Agile** : Scrum
+> Cycle en V
 
 ####Outils de développement
 
