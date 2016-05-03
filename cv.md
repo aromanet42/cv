@@ -54,8 +54,8 @@ Génération de QCMs en PDF.
 
 ####Méthodologies
 
-> **Agile** : Scrum
-> Cycle en V
+> - **Agile** : Scrum
+> - Cycle en V
 
 ####Outils de développement
 
