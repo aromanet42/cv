@@ -13,12 +13,12 @@ Depuis toujours intéressée par la programmation, j'ai pu profiter de mes diff�
 
 **Développeur Java/JEE à Mirakl** (Paris) `mai 2015 - Aujourd'hui`
 
-> Développement de Mirakl-MarketPlace, principalement sur des problématiques liées à l'internationnalisation (multi-langues, multi-devises, multi-taxes)
+> Développement et maintenance de Mirakl-MarketPlace, principalement sur des problématiques liées à l'internationnalisation (multi-langues, multi-devises, multi-taxes)
 > Projet géré en Agile (Scrum)
 
 **Développeur Java/JEE à Excilys** (SSII située à Cachan) `septembre 2011 - mai 2015`
 
-> - depuis mars 2014 : *FIA-NET*, société d'expertise dans le e-commerce.
+> - mars 2014 - mai 2015 : *FIA-NET*, société d'expertise dans le e-commerce.
 >    - Maintenances sur leur service de paiment en ligne
 >    - Début d'un nouveau projet de paiement fractionné.
 >    Mise en place d'un nouveau projet, écriture de documentation technique détaillée
