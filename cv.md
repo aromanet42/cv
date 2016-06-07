@@ -1,8 +1,7 @@
 # Audrey ROMANET
 ## Développeur Java / JEE
 
-> [audrey.romanet42@gmail.com](audrey.romanet42@gmail.com)  
-> 06.71.87.58.83
+> [audrey.romanet42@gmail.com](audrey.romanet42@gmail.com)
 
 ### Description
 
