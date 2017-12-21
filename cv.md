@@ -43,7 +43,7 @@ Génération de QCMs en PDF.
 
 ### Compétences techniques
 
-####Langages et frameworks
+#### Langages et frameworks
 
 > - Java 6, **Java 8**, Groovy. Notions en C#, C, Ruby, PHP
 > - Langages Web: JavaScript, HTML 4, CSS, LESS, SASS
@@ -51,12 +51,12 @@ Génération de QCMs en PDF.
 > - **Tests**: Méthode TDD, TestNG, JUnit, Spock, EasyMock, Cucumber
 > - Connaissance de **RabbitMQ**
 
-####Méthodologies
+#### Méthodologies
 
 > - **Agile** : Scrum
 > - Cycle en V
 
-####Outils de développement
+#### Outils de développement
 
 > - Maven, Gradle, Ant
 > - Git, SVN
