@@ -3,17 +3,17 @@
 
 > [audrey.romanet42@gmail.com](audrey.romanet42@gmail.com)
 
-### Description
-
-Depuis toujours intéressée par la programmation, j'ai pu profiter de mes différentes expériences pour améliorer mes connaissances, essentiellement en **Java** et dans les frameworks les plus courants (Spring, Hibernate).
-
 
 ### Expérience
 
 **Développeur Java/JEE à Mirakl** (Paris) `mai 2015 - Aujourd'hui`
 
-> Développement et maintenance de Mirakl-MarketPlace, principalement sur des problématiques liées à l'internationnalisation (multi-langues, multi-devises, multi-taxes)
-> Projet géré en Agile (Scrum)
+> Développement et maintenance de Mirakl-MarketPlace
+> - problématiques liées à l'internationnalisation (multi-langues, multi-devises, multi-taxes)
+> - développement du module "Marketplace de services"
+> - développement de micro-services
+> - création d'outils de documentation: documentation d'APIs REST (utilisation de Swagger), APIs Asynchrone (Kafka)
+> Projet géré en Agile (Scrum puis Kanban)
 
 **Développeur Java/JEE à Excilys** (SSII située à Cachan) `septembre 2011 - mai 2015`
 
